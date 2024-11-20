@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leomockel
 - 👀 I’m interested in data science
-- 🌱 I’m currently finishing a 2 years internship for a master of data science and business analysis in EDC Paris Business School
+- 🌱 I have graduated in a master of data science and business analysis, being major of promotion 2023 for PGE (Programme Grandes Ecoles) in EDC Paris Business School
 - 📫 How to reach me : mail : lionel.mockel@gmail.com, tel : 0627392894
 
 <!---
